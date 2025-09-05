@@ -1,0 +1,1 @@
+import{c as e,o as c}from"./index-DPj_L1nC.js";const s={__name:"home",setup(t){function o(){$router.push("/doc/overview")}return(r,n)=>(c(),e("div",{class:"home",fill:"",flex:"",jc:"",ac:"",pointer:"",onClick:o}," Go to doc "))}};export{s as default};
